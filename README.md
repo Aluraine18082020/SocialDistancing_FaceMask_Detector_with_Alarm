@@ -1,7 +1,6 @@
-# Resister-19
-##### A project by Team RESISTER-19 for the HackForCovid Hackathon
 
-## Title : Social Distancing & Face Mask Detector with Alarm
+
+### Title : Social Distancing & Face Mask Detector with Alarm
 
 ## Tagline
 Masks on their own will not protect you from covid'19,  practising physical distancing with mask can!<br>
